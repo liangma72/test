@@ -1,3 +1,2 @@
 # test
-it is test repo
-sssdfd
+it is a great test repo!
